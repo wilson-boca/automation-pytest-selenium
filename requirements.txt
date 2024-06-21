@@ -1,0 +1,4 @@
+pytest
+pytest-html
+selenium
+urllib3==1.26.15

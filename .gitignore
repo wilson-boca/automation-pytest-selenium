@@ -1,0 +1,6 @@
+assets
+*_pycache_*
+*.html
+.pytest_cache
+.git
+.idea
